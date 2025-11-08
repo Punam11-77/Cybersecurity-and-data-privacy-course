@@ -1,7 +1,8 @@
 # Cybersecurity-and-data-privacy-course
 # Logbook
-| :---         |     :---:      |     :---:      |     :---:      |
+
 | Date  | Used hours | Subject(s) |  Outcome(s) |
+| :---         |     :---:      |     :---:      |     :---:      |
 | 02.11.2025 | 3 | Linux essentials | Working with Linux shell |
 | 03.11.2025 | 4 | Cloud Foundations and operations | Lab 1 |
 | 04.11.2025 | 5 | CCNA | Lab 1 and 2 |
