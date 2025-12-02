@@ -9,6 +9,10 @@
 | 16.11.2025 | 4 | Password reset broken logic | 	Reset another user’s password by altering reset-token parameters. Understood importance of secure token validation |
 | 17.11.2025 | 3.5 | Unprotected admin functionality | Accessed /admin directly and deleted user accounts. Learned dangers of missing authorization checks |
 | 17.11.2025 | 6 | User role can be modified in user profile | UModified JSON to "roleid":2 and escalated privileges. Learned about insecure direct object reference vulnerabilities (IDOR) |
+|25.11.2025 | 4 | Booking phase 1 part 1 | Test and Zap report | We did part 1 test and Zap report |
+|02.12.2025 | 5 | Booking phase 1 part 2 | Test and Zap report | We did part 2 test and Zap report |
+
+ 
 
 
 
