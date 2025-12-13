@@ -16,9 +16,9 @@
 | 16.11.2025 | 4 | Password reset broken logic | 	Reset another user’s password by altering reset-token parameters. Understood importance of secure token validation |
 | 17.11.2025 | 4 | Unprotected admin functionality | Accessed /admin directly and deleted user accounts. Learned dangers of missing authorization checks |
 | 17.11.2025 | 6 | User role can be modified in user profile | UModified JSON to "roleid":2 and escalated privileges. Learned about insecure direct object reference vulnerabilities (IDOR) |
-|25.11.2025 | 8 | Booking phase 1 part 1 | Test and Zap report | We did part 1 test and Zap report |
-|02.12.2025 | 9 | Booking phase 1 part 2 | Test and Zap report | We did part 2 test and Zap report |
-| 08.12.2025 | 6 | Booking system project part 2 |Password cracking and user configuration. Learned how to do manual test and crack the encrypted password  |
+|25.11.2025 | 8 | Booking phase 1 part 1 | Test and Zap report | Manual tests, initial ZAP scanning, and vulnerability documentation.|
+|02.12.2025 | 9 | Booking phase 1 part 2 | Test and Zap report | Completed tests, refined findings, and prepared final Phase 1 testing report. |
+| 08.12.2025 | 6 | Booking system project part 2 |Password cracking and user configuration. Learned how to do manual test and crack the encrypted password. Security testing with privilege escalation, XSS/SQLi payload injection, OWASP ZAP interception, password hash extraction and cracking with John the Ripper, and comprehensive vulnerability documentation. | 
 | **Total**  | **60**| **—**                                              | **Total hours completed in cybersecurity coursework and testing activities.**       |
 
 
