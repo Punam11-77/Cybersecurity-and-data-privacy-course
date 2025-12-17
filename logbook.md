@@ -22,7 +22,7 @@
 | 15.12.2025 | 10    | Booking System Testing – Phase 3                | Authorization and role-based access control testing, manual URL manipulation, OWASP ZAP passive scanning, GDPR compliance assessment, privilege escalation discovery, and final authorization test report. |
 | 15.12.2025 | 6     | Booking System Testing – Phase 4                | GDPR compliance checklist, Privacy by Design assessment, created Privacy Policy, Terms of Service, and Cookie Policy documentation. 
 | 01.11.2025 - 15.12.2025 | 18    | PortSwigger Academy Labs (12 labs)              | Completed 6 practical security labs covering SQL injection, authentication vulnerabilities, access control flaws, and other OWASP Top 10 vulnerabilities.      |
-| **Total**  | **62**| **—** | **Total hours completed in cybersecurity coursework and testing activities.**       |
+| **Total**  | **98,5**| **—** | **Total hours completed in cybersecurity coursework and testing activities.**       |
 
 
 
