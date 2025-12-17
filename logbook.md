@@ -19,6 +19,9 @@
 |25.11.2025 | 8 | Booking phase 1 part 1 | Test and Zap report | Manual tests, initial ZAP scanning, and vulnerability documentation.|
 |02.12.2025 | 9 | Booking phase 1 part 2 | Test and Zap report | Completed tests, refined findings, and prepared final Phase 1 testing report. |
 | 08.12.2025 | 10| Booking system project part 2 |Password cracking and user configuration. Learned how to do manual test and crack the encrypted password. Security testing with privilege escalation, XSS/SQLi payload injection, OWASP ZAP interception, password hash extraction and cracking with John the Ripper, and comprehensive vulnerability documentation. | 
+| 15.12.2025 | 10    | Booking System Testing – Phase 3                | Authorization and role-based access control testing, manual URL manipulation, OWASP ZAP passive scanning, GDPR compliance assessment, privilege escalation discovery, and final authorization test report. |
+| 15.12.2025 | 6     | Booking System Testing – Phase 4                | GDPR compliance checklist, Privacy by Design assessment, created Privacy Policy, Terms of Service, and Cookie Policy documentation. 
+| 01.11.2025 - 15.12.2025 | 18    | PortSwigger Academy Labs (12 labs)              | Completed 12 practical security labs covering SQL injection, authentication vulnerabilities, access control flaws, and other OWASP Top 10 vulnerabilities.      |
 | **Total**  | **62**| **—** | **Total hours completed in cybersecurity coursework and testing activities.**       |
 
 
